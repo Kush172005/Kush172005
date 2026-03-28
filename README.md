@@ -72,10 +72,9 @@
 
 <hr/>
 
-<!-- Stats -->
+<!-- FIXED Stats Section (Removed broken card) -->
 <div align="center">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=Kush172005&show_icons=true&theme=transparent&title_color=2563EB&icon_color=2563EB&text_color=1F2937&hide_border=true" />
-  <img width="390" src="https://streak-stats.demolab.com?user=Kush172005&theme=transparent&ring=2563EB&fire=2563EB&currStreakLabel=2563EB&hide_border=true" />
+  <img width="450" src="https://streak-stats.demolab.com?user=Kush172005&theme=transparent&ring=2563EB&fire=2563EB&currStreakLabel=2563EB&hide_border=true" />
 </div>
 
 <br/>
