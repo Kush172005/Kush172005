@@ -1,25 +1,28 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=32&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Kush+Agarwal;Full+Stack+Developer;AI+%26+Automation+Systems;Building+Scalable+Backends" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=32&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Kush+Agarwal;Full+Stack+Developer;AI+%26+Automation+Systems;Building+Scalable+Backends" />
 </h1>
+
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kush172005&label=Profile%20Views&color=2563EB&style=for-the-badge" />
+</p>
 
 <h3 align="center">
   ⚡ Turning complex problems into scalable systems
 </h3>
 
-<br/>
-
-<!-- Animated Divider -->
+<!-- Divider -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1f1f1f&height=120&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:1E293B&height=110&section=header"/>
 </p>
 
 <div align="center">
 
-🎓 3rd Year @ **Newton School of Technology**
+🎓 3rd Year @ **Newton School of Technology**  
 
-🚀 Building **AI-powered automation systems & scalable backend architectures**
+🚀 Building **AI-powered automation systems & scalable backend architectures**  
 
-⚙️ Working with **real-world data pipelines, APIs, and system design**
+⚙️ Focused on **real-world systems, APIs, and performance**  
 
 💬 Ask me about **Next.js, Node.js, Prisma, System Design**
 
@@ -27,16 +30,16 @@
 
 <br/>
 
-<!-- Animated Badges -->
+<!-- Social Links -->
 <div align="center"> 
   <a href="mailto:pedro.sales.agrawalkush783@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+    <img src="https://img.shields.io/badge/Gmail-2563EB?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/kush-agarwal001/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+    <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://kush172005.github.io/Kush-Portfolio/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+     <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </div>
 
@@ -52,22 +55,34 @@
 <h2 align="center">⚒ Tech Stack</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,typescript,python,prisma,postgresql,redis,docker,tailwind,git" />
+
+<!-- Core Stack -->
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,typescript,javascript,python,go" /><br/>
+
+<!-- Backend & DB -->
+<img src="https://skillicons.dev/icons?i=fastapi,prisma,mongodb,mysql,postgresql" /><br/>
+
+<!-- Tools -->
+<img src="https://skillicons.dev/icons?i=docker,redis,git,vscode,linux" /><br/>
+
+<!-- Frontend -->
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap" />
+
 </div>
 
 <hr/>
 
-<!-- GitHub Stats Animated -->
+<!-- Stats -->
 <div align="center">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=Kush172005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
-  <img width="390" src="https://streak-stats.demolab.com?user=Kush172005&theme=tokyonight&hide_border=true&background=00000000" />
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=Kush172005&show_icons=true&theme=transparent&title_color=2563EB&icon_color=2563EB&text_color=1F2937&hide_border=true" />
+  <img width="390" src="https://streak-stats.demolab.com?user=Kush172005&theme=transparent&ring=2563EB&fire=2563EB&currStreakLabel=2563EB&hide_border=true" />
 </div>
 
 <br/>
 
 <!-- Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kush172005&theme=tokyo-night&hide_border=true&bg_color=00000000" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kush172005&theme=github-compact&color=2563EB&line=2563EB&point=2563EB&hide_border=true" />
 </div>
 
 <hr/>
@@ -77,26 +92,24 @@
 <div align="center">
 
 🚀 Scalable backend systems  
-🔁 Automation workflows (data sync, APIs, cron systems)  
+🔁 Automation workflows (data sync, cron jobs, APIs)  
 🧠 AI-integrated applications  
-⚡ High-performance full-stack products  
+⚡ Production-ready full-stack platforms  
 
 </div>
 
 <hr/>
 
-<h2 align="center">🧠 Philosophy</h2>
+<h2 align="center">🧠 Engineering Mindset</h2>
 
 <div align="center">
 
-I don’t just build projects.  
-I build **systems that scale, automate, and solve real problems.**
+I focus on **building systems, not just projects**.  
+Performance, scalability, and real-world impact come first.
 
 </div>
 
-<br/>
-
-<!-- Footer Wave Animation -->
+<!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1f1f,100:0f0f0f&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E293B,100:2563EB&height=110&section=footer"/>
 </p>
