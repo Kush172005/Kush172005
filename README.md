@@ -72,7 +72,7 @@
 
 <hr/>
 
-<!-- FIXED Stats Section (Removed broken card) -->
+<!-- FIXED Stats Section -->
 <div align="center">
   <img width="450" src="https://streak-stats.demolab.com?user=Kush172005&theme=transparent&ring=2563EB&fire=2563EB&currStreakLabel=2563EB&hide_border=true" />
 </div>
