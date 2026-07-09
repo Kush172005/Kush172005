@@ -18,7 +18,7 @@
 
 <div align="center">
 
-🎓 3rd Year @ **Newton School of Technology**  
+🎓 Final Year @ **Newton School of Technology**  
 
 🚀 Building **AI-powered automation systems & scalable backend architectures**  
 
