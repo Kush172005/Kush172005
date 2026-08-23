@@ -29,7 +29,7 @@ Passionate about building software that solves real-world problems.
   <a href="https://www.linkedin.com/in/kush-agarwal001/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://kush172005.github.io/Kush-Portfolio/" target="_blank">
+  <a href="https://www.kushagarwal.tech" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </div>
